@@ -1,0 +1,722 @@
+[02:16:04] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:16:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:16:04] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:16:04] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[02:16:04] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[02:16:04] [Server thread/INFO]: Starting minecraft server version 1.15.2
+[02:16:04] [Server thread/INFO]: Loading properties
+[02:16:04] [Server thread/INFO]: Default game type: SURVIVAL
+[02:16:04] [Server thread/INFO]: Generating keypair
+[02:16:05] [Server thread/INFO]: Starting Minecraft server on *:25565
+[02:16:05] [Server thread/INFO]: Using epoll channel type
+[02:16:05] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[02:16:05] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[02:16:05] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[02:16:05] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[02:16:05] [Server thread/INFO]: Preparing level "world"
+[02:16:05] [Server thread/INFO]: Reloading ResourceManager: Default
+[02:16:07] [Server thread/INFO]: Loaded 6 recipes
+[02:16:07] [Server thread/INFO]: Loaded 825 advancements
+[02:16:20] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[02:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:21] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:22] [Server thread/INFO]: Preparing spawn area: 0%
+[02:16:22] [Server thread/INFO]: Time elapsed: 2400 ms
+[02:16:22] [Server thread/INFO]: Done (16.917s)! For help, type "help"
+[02:16:40] [Server thread/INFO]: Made TioPotranca no longer a server operator
+[02:17:03] [Server thread/INFO]: Felix[/177.193.138.117:58863] logged in with entity id 245 at (-527.5, 63.0, 563.5)
+[02:17:03] [Server thread/INFO]: Felix joined the game
+[02:17:48] [Server thread/INFO]: SuubMatias[/177.13.90.242:27369] logged in with entity id 366 at (-532.080211692916, 65.0, 545.0124999880791)
+[02:17:48] [Server thread/INFO]: SuubMatias joined the game
+[02:17:55] [Server thread/INFO]: TioPotranca[/187.123.1.223:15059] logged in with entity id 396 at (-534.094654136112, 66.0, 566.8771712118646)
+[02:17:55] [Server thread/INFO]: TioPotranca joined the game
+[02:18:09] [Server thread/INFO]: scardrain[/187.123.3.10:8701] logged in with entity id 416 at (-531.9875000119209, 65.82711731432457, 550.7927283652098)
+[02:18:09] [Server thread/INFO]: scardrain joined the game
+[02:18:10] [Server thread/INFO]: scardrain lost connection: You logged in from another location
+[02:18:10] [Server thread/INFO]: scardrain left the game
+[02:18:10] [Server thread/INFO]: scardrain[/187.123.3.10:8702] logged in with entity id 417 at (-531.9875000119209, 65.82711731432457, 550.7927283652098)
+[02:18:10] [Server thread/INFO]: scardrain joined the game
+[02:18:30] [Server thread/INFO]: <scardrain> entra no discord pingado
+[02:18:42] [Server thread/INFO]: Made TioPotranca a server operator
+[02:18:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:47] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-535, y=62, z=498}
+[02:18:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-535, y=62, z=499}
+[02:18:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-535, y=62, z=499}
+[02:18:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-535, y=62, z=499}
+[02:18:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=500}
+[02:18:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-535, y=62, z=499}
+[02:18:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:18:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=62, z=498}
+[02:19:13] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:13] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:13] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:15] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-535, y=62, z=500}
+[02:19:20] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:22] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-537, y=62, z=498}
+[02:19:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-535, y=62, z=499} fk{x=-538, y=63, z=497}
+[02:19:26] [Server thread/INFO]: [TioPotranca: Teleported TioPotranca to SuubMatias]
+[02:19:30] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-533, y=62, z=499}
+[02:19:33] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-534, y=61, z=499}
+[02:20:07] [Server thread/INFO]: [TioPotranca: Set the time to 0]
+[02:20:13] [Server thread/INFO]: [TioPotranca: Set the weather to clear]
+[02:20:48] [Server thread/INFO]: [TioPotranca: Teleported TioPotranca to scardrain]
+[02:20:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-540, y=64, z=462} fk{x=-541, y=63, z=466}
+[02:21:22] [Server thread/INFO]: [TioPotranca: Teleported scardrain to TioPotranca]
+[02:21:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-536, y=62, z=558}
+[02:21:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-536, y=62, z=557}
+[02:21:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-536, y=62, z=558}
+[02:21:38] [Server thread/INFO]: Felix was slain by SuubMatias
+[02:22:01] [Server thread/INFO]: [TioPotranca: Teleported scardrain to TioPotranca]
+[02:22:06] [Server thread/INFO]: TioPotranca has made the advancement [Ice Bucket Challenge]
+[02:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-532, y=66, z=566}
+[02:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-532, y=66, z=566}
+[02:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-532, y=66, z=566}
+[02:22:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-532, y=66, z=566}
+[02:22:12] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-534, y=62, z=499} fk{x=-532, y=66, z=566}
+[02:22:12] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-537, y=203, z=592}
+[02:22:14] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-537, y=202, z=592}
+[02:22:18] [Server thread/INFO]: <SuubMatias> paz
+[02:22:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-537, y=203, z=592}
+[02:22:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-537, y=202, z=592}
+[02:22:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-541, y=63, z=464} fk{x=-532, y=204, z=592}
+[02:22:33] [Server thread/INFO]: <SuubMatias> paz
+[02:22:33] [Server thread/INFO]: <Felix> paz é a resposta dos fracos
+[02:22:46] [Server thread/INFO]: <SuubMatias> <3
+[02:22:47] [Server thread/INFO]: <TioPotranca> entra discord pingado
+[02:22:47] [Server thread/INFO]: <Felix> o proprio egoismo de querer manter a paz causa guerras
+[02:22:57] [Server thread/INFO]: [TioPotranca: Removed 32 items from player TioPotranca]
+[02:23:12] [Server thread/INFO]: <SuubMatias> perdoe-me meu amô
+[02:23:12] [Server thread/INFO]: <Felix> qual discord mundiça
+[02:23:17] [Server thread/INFO]: <scardrain> calourada é tudo burro
+[02:23:19] [Server thread/INFO]: <SuubMatias> o do calourada é tudo burro
+[02:23:22] [Server thread/INFO]: <scardrain> tem o link no comunicação
+[02:23:27] [Server thread/INFO]: <Felix> num to nesse
+[02:23:38] [Server thread/INFO]: <TioPotranca> mandei seu wpp
+[02:23:42] [Server thread/INFO]: <SuubMatias> se ta no ex calouros 2018 ?
+[02:23:57] [Server thread/INFO]: <SuubMatias> n tenta me impedir pingado
+[02:24:00] [Server thread/INFO]: <SuubMatias> eu cansei da minha vida
+[02:24:01] [Server thread/INFO]: <SuubMatias> adeus
+[02:24:06] [Server thread/INFO]: <SuubMatias> o bosta
+[02:24:12] [Server thread/INFO]: <SuubMatias> imprestavel até pra se matar
+[02:24:33] [Server thread/INFO]: <SuubMatias> agora é o fim
+[02:24:34] [Server thread/INFO]: SuubMatias fell from a high place
+[02:25:09] [Server thread/INFO]: scardrain fell from a high place
+[02:25:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-587, y=73, z=475}
+[02:25:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-588, y=73, z=476}
+[02:25:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-591, y=73, z=475}
+[02:25:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-590, y=73, z=475}
+[02:25:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-589, y=73, z=473}
+[02:25:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-589, y=73, z=473}
+[02:25:56] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-588, y=72, z=470}
+[02:25:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-587, y=72, z=471}
+[02:26:09] [Server thread/INFO]: SuubMatias fell from a high place
+[02:26:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=530}
+[02:26:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=531}
+[02:26:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=531}
+[02:26:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-535, y=64, z=530}
+[02:26:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=542}
+[02:26:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=542}
+[02:26:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=544}
+[02:26:52] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=544}
+[02:26:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=544}
+[02:26:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=545}
+[02:26:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=546}
+[02:26:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=546}
+[02:26:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=546}
+[02:26:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=546}
+[02:26:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=546}
+[02:26:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=547}
+[02:26:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=547}
+[02:26:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-535, y=63, z=560}
+[02:27:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=62, z=557}
+[02:27:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=62, z=557}
+[02:27:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=62, z=557}
+[02:27:17] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=62, z=557}
+[02:27:18] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=63, z=556}
+[02:27:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=63, z=556}
+[02:27:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=63, z=556}
+[02:27:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=63, z=556}
+[02:27:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-538, y=62, z=558}
+[02:27:19] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-538, y=62, z=558}
+[02:27:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-541, y=62, z=559}
+[02:27:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-541, y=62, z=559}
+[02:27:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-541, y=62, z=559}
+[02:27:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-541, y=62, z=559}
+[02:27:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-538, y=63, z=561}
+[02:27:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-542, y=61, z=560}
+[02:27:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-538, y=63, z=561}
+[02:27:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-542, y=59, z=561}
+[02:27:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-542, y=59, z=561}
+[02:27:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-541, y=60, z=559}
+[02:27:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-541, y=60, z=559}
+[02:27:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-541, y=60, z=559}
+[02:27:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-539, y=63, z=562}
+[02:27:29] [Server thread/INFO]: Felix has made the advancement [Monster Hunter]
+[02:27:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-539, y=63, z=562}
+[02:27:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-539, y=63, z=562}
+[02:27:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-540, y=62, z=559}
+[02:27:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-538, y=64, z=562}
+[02:27:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-540, y=62, z=559}
+[02:27:30] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=63, z=560}
+[02:27:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=63, z=560}
+[02:27:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=63, z=560}
+[02:27:36] [Server thread/INFO]: scardrain has made the advancement [Monster Hunter]
+[02:27:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=562}
+[02:27:45] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=561}
+[02:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=562}
+[02:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-538, y=64, z=562}
+[02:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=561}
+[02:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=561}
+[02:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-539, y=63, z=562}
+[02:27:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=561}
+[02:27:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=63, z=556}
+[02:27:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=63, z=556}
+[02:27:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-536, y=63, z=555}
+[02:27:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-535, y=63, z=555}
+[02:27:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-535, y=63, z=555}
+[02:27:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-533, y=63, z=555}
+[02:27:50] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-533, y=63, z=555}
+[02:27:53] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=549}
+[02:27:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-537, y=65, z=530}
+[02:27:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-537, y=65, z=531}
+[02:27:56] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-537, y=65, z=528}
+[02:27:56] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=430} fk{x=-537, y=65, z=527}
+[02:28:15] [Server thread/INFO]: [TioPotranca: Set the time to 0]
+[02:28:20] [Server thread/INFO]: SuubMatias drowned
+[02:28:21] [Server thread/INFO]: [TioPotranca: Set the weather to clear]
+[02:30:52] [Server thread/INFO]: scardrain has made the advancement [Getting an Upgrade]
+[02:33:06] [Server thread/INFO]: Felix has made the advancement [Stone Age]
+[02:33:52] [Server thread/INFO]: Felix has made the advancement [Getting an Upgrade]
+[02:36:10] [Server thread/INFO]: SuubMatias has made the advancement [Monster Hunter]
+[02:40:41] [Server thread/INFO]: SuubMatias has made the advancement [Getting an Upgrade]
+[02:41:10] [Server thread/INFO]: SuubMatias has made the advancement [Stone Age]
+[02:43:53] [Server thread/INFO]: Felix was shot by Skeleton
+[02:45:47] [Server thread/INFO]: [TioPotranca: Teleported TioPotranca to Felix]
+[02:46:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=537}
+[02:46:21] [Server thread/INFO]: [TioPotranca: Removed 2 items from player TioPotranca]
+[02:46:29] [Server thread/INFO]: [TioPotranca: Set own game mode to Survival Mode]
+[02:46:38] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=538}
+[02:46:42] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-533, y=64, z=537}
+[02:46:42] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-533, y=64, z=537}
+[02:46:42] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=64, z=537}
+[02:46:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=64, z=537}
+[02:46:43] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-533, y=64, z=536}
+[02:46:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=538}
+[02:46:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=540}
+[02:46:46] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=541}
+[02:46:47] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=542}
+[02:46:47] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-535, y=64, z=542}
+[02:46:47] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-535, y=64, z=541}
+[02:46:47] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-535, y=64, z=542}
+[02:46:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=542}
+[02:46:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=541}
+[02:46:48] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=541}
+[02:46:49] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=544}
+[02:46:50] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=541}
+[02:46:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=542}
+[02:46:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=542}
+[02:46:51] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=542}
+[02:46:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=546}
+[02:46:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=547}
+[02:46:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=547}
+[02:46:57] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=548}
+[02:46:58] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=544}
+[02:46:58] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=544}
+[02:47:01] [Server thread/INFO]: Felix was slain by TioPotranca
+[02:47:26] [Server thread/INFO]: TioPotranca fell out of the world
+[02:47:26] [Server thread/INFO]: [TioPotranca: Killed TioPotranca]
+[02:48:28] [Server thread/INFO]: SuubMatias fell from a high place
+[02:49:36] [Server thread/INFO]: TioPotranca has made the advancement [Stone Age]
+[02:50:03] [Server thread/INFO]: TioPotranca has made the advancement [Getting an Upgrade]
+[02:50:33] [Server thread/INFO]: Lucas[/179.217.120.129:58627] logged in with entity id 6695 at (-531.5, 63.0, 558.5)
+[02:50:33] [Server thread/INFO]: Lucas joined the game
+[02:50:38] [Server thread/INFO]: <TioPotranca> Hey
+[02:50:41] [Server thread/INFO]: <TioPotranca> :D
+[02:51:41] [Server thread/INFO]: <Lucas> cadeeeeeeeeeeeeeeeeee
+[02:51:45] [Server thread/INFO]: <TioPotranca> Oieee
+[02:52:01] [Server thread/INFO]: <Felix> ROUBA O NOBURU
+[02:52:20] [Server thread/INFO]: <Lucas> to perdida
+[02:52:28] [Server thread/INFO]: TioPotranca lost connection: Timed out
+[02:52:28] [Server thread/INFO]: TioPotranca left the game
+[02:54:54] [Server thread/INFO]: <Felix> entra discord zé ruela
+[02:55:40] [Server thread/INFO]: TioPotranca[/187.123.1.223:15243] logged in with entity id 8362 at (-435.80466850325206, 65.0, 395.54823711136146)
+[02:55:40] [Server thread/INFO]: TioPotranca joined the game
+[02:57:23] [Server thread/INFO]: Lucas lost connection: Disconnected
+[02:57:23] [Server thread/INFO]: Lucas left the game
+[02:59:01] [Server thread/INFO]: TioPotranca has made the advancement [Acquire Hardware]
+[02:59:12] [Server thread/INFO]: TioPotranca has made the advancement [Isn't It Iron Pick]
+[02:59:30] [Server thread/INFO]: Felix has made the advancement [Isn't It Iron Pick]
+[03:05:36] [Server thread/INFO]: TioPotranca has made the advancement [Diamonds!]
+[03:05:44] [Server thread/INFO]: Felix has made the advancement [Diamonds!]
+[03:06:59] [Server thread/INFO]: TioPotranca lost connection: Disconnected
+[03:06:59] [Server thread/INFO]: TioPotranca left the game
+[03:09:32] [Server thread/INFO]: TioPotranca[/187.123.1.223:15188] logged in with entity id 12347 at (-516.5421806558643, 12.0, 419.0880180686611)
+[03:09:32] [Server thread/INFO]: TioPotranca joined the game
+[03:09:46] [Server thread/INFO]: SuubMatias was slain by Spider
+[03:09:47] [Server thread/WARN]: Fetching packet for removed entity akw['Experience Orb'/12470, l='world', x=-515.74, y=11.11, z=420.25]
+[03:14:41] [Server thread/INFO]: SuubMatias has made the advancement [Acquire Hardware]
+[03:18:27] [Server thread/INFO]: scardrain has made the advancement [Acquire Hardware]
+[03:18:41] [Server thread/INFO]: scardrain has made the advancement [Isn't It Iron Pick]
+[03:20:53] [Server thread/INFO]: <TioPotranca> -648 776
+[03:22:05] [Server thread/INFO]: <Felix> t
+[03:24:31] [Server thread/INFO]: TioPotranca has made the advancement [Monster Hunter]
+[03:25:00] [Server thread/INFO]: TioPotranca has made the advancement [A Seedy Place]
+[03:26:17] [Server thread/INFO]: SuubMatias has made the advancement [A Seedy Place]
+[03:34:03] [Server thread/INFO]: SuubMatias tried to swim in lava
+[03:34:16] [Server thread/INFO]: SuubMatias lost connection: Disconnected
+[03:34:16] [Server thread/INFO]: SuubMatias left the game
+[03:40:37] [Server thread/INFO]: scardrain has made the advancement [Sweet Dreams]
+[03:42:41] [Server thread/INFO]: TioPotranca has made the advancement [Sweet Dreams]
+[03:47:07] [Server thread/INFO]: TioPotranca has made the advancement [Hot Stuff]
+[03:51:27] [Server thread/INFO]: TioPotranca has made the advancement [Not Today, Thank You]
+[03:52:36] [Server thread/INFO]: TioPotranca lost connection: Disconnected
+[03:52:36] [Server thread/INFO]: TioPotranca left the game
+[03:56:45] [Server thread/INFO]: TioPotranca[/187.123.1.223:14942] logged in with entity id 24664 at (-542.4949888713832, 12.0, 407.4010747177191)
+[03:56:45] [Server thread/INFO]: TioPotranca joined the game
+[03:58:29] [Server thread/WARN]: TioPotranca moved wrongly!
+[04:00:26] [Server thread/INFO]: TioPotranca lost connection: Disconnected
+[04:00:26] [Server thread/INFO]: TioPotranca left the game
+[04:04:41] [Server thread/INFO]: scardrain lost connection: Disconnected
+[04:04:41] [Server thread/INFO]: scardrain left the game
+[04:10:44] [Server thread/INFO]: renerareman[/187.123.2.255:8837] logged in with entity id 26514 at (-527.5, 63.0, 563.5)
+[04:10:44] [Server thread/INFO]: renerareman joined the game
+[04:11:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-535, y=65, z=565}
+[04:12:10] [Server thread/INFO]: <renerareman> salvee
+[04:12:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-579, y=72, z=632}
+[04:12:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-579, y=71, z=632}
+[04:12:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-579, y=72, z=632}
+[04:15:21] [Server thread/INFO]: renerareman has made the advancement [Stone Age]
+[04:16:24] [Server thread/INFO]: renerareman has made the advancement [Getting an Upgrade]
+[04:22:11] [Server thread/INFO]: Felix has made the advancement [Sweet Dreams]
+[04:22:27] [Server thread/INFO]: <Felix> olá
+[04:22:30] [Server thread/INFO]: <renerareman> salve
+[04:22:30] [Server thread/INFO]: <Felix> alguem on?
+[04:22:38] [Server thread/INFO]: <renerareman> so passando por aqui
+[04:22:44] [Server thread/INFO]: <Felix> humilde
+[04:22:48] [Server thread/INFO]: <Felix> fui comer
+[04:22:48] [Server thread/INFO]: renerareman has made the advancement [Monster Hunter]
+[04:22:51] [Server thread/INFO]: <Felix> galera tudo foi dormir
+[04:22:54] [Server thread/INFO]: <renerareman> kkkk
+[04:22:58] [Server thread/INFO]: <renerareman> eu vou daqui a poucot
+[04:23:25] [Server thread/INFO]: Felix has made the advancement [Acquire Hardware]
+[04:25:57] [Server thread/INFO]: Felix was slain by Cave Spider
+[04:26:01] [Server thread/INFO]: <renerareman> kkkkkk
+[04:26:02] [Server thread/INFO]: <renerareman> boa
+[04:26:09] [Server thread/INFO]: <Felix> piranha
+[04:26:14] [Server thread/INFO]: <renerareman> isso sim é vanilla
+[04:26:16] [Server thread/INFO]: <renerareman> raiz
+[04:26:20] [Server thread/INFO]: <Felix> vou lá roubar o noboru
+[04:26:34] [Server thread/INFO]: <renerareman> eu to numa caverna
+[04:26:39] [Server thread/INFO]: <renerareman> esperando a noite passar
+[04:26:45] [Server thread/INFO]: <Felix> vc é fraco
+[04:26:51] [Server thread/INFO]: <renerareman> me falta cama
+[04:27:45] [Server thread/INFO]: renerareman has made the advancement [Acquire Hardware]
+[04:27:58] [Server thread/INFO]: renerareman has made the advancement [Isn't It Iron Pick]
+[04:28:28] [Server thread/INFO]: <Felix> carai noboru num tem nada
+[04:28:33] [Server thread/INFO]: <Felix> vou deixar umas coisas aqui para ele
+[04:28:40] [Server thread/INFO]: <renerareman> kkkkk
+[04:28:44] [Server thread/INFO]: <renerareman> fui assaltar
+[04:28:53] [Server thread/INFO]: <renerareman> deixei um trocados pra ele
+[04:29:05] [Server thread/INFO]: <Felix> ta facil para ninguem
+[04:29:19] [Server thread/INFO]: renerareman has made the advancement [A Seedy Place]
+[04:29:37] [Server thread/INFO]: <Felix> cola aqui na logo da trojan
+[04:29:40] [Server thread/INFO]: <Felix> voute dar uma cama
+[04:29:58] [Server thread/INFO]: Hiago3_14[/179.217.112.237:35446] logged in with entity id 31297 at (-524.5, 63.0, 566.5)
+[04:29:58] [Server thread/INFO]: Hiago3_14 joined the game
+[04:30:13] [Server thread/INFO]: <renerareman> vlw
+[04:30:16] [Server thread/INFO]: <renerareman> mas ja peguei lã
+[04:30:21] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-535, y=64, z=529}
+[04:30:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=527}
+[04:30:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=64, z=527}
+[04:30:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=527}
+[04:30:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=527}
+[04:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=528}
+[04:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=528}
+[04:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=527}
+[04:30:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=65, z=527}
+[04:30:25] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-537, y=67, z=525}
+[04:30:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=524}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=523}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=523}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=64, z=525}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=523}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=524}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=524}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=523}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=524}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=523}
+[04:30:28] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=64, z=523}
+[04:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=523}
+[04:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=524}
+[04:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=523}
+[04:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=64, z=523}
+[04:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=523}
+[04:30:29] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=526}
+[04:30:30] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=527}
+[04:30:30] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=524}
+[04:30:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=527}
+[04:30:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=525}
+[04:30:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=528}
+[04:30:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=525}
+[04:30:31] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=528}
+[04:30:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=528}
+[04:30:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=527}
+[04:30:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-537, y=65, z=527}
+[04:30:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=526}
+[04:30:33] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-535, y=64, z=530}
+[04:30:33] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-522, y=70, z=444} fk{x=-536, y=64, z=530}
+[04:30:33] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=0, y=0, z=0} fk{x=-532, y=65, z=530}
+[04:30:52] [Server thread/INFO]: <Hiago3_14> combado
+[04:30:59] [Server thread/INFO]: <renerareman> eita
+[04:31:04] [Server thread/INFO]: <renerareman> já ta tendo luta?
+[04:31:23] [Server thread/INFO]: <Felix> se tu chamar a surra que dei nele de luta
+[04:31:25] [Server thread/INFO]: <Felix> então sim
+[04:31:32] [Server thread/INFO]: <renerareman> kkkkkkkkkk
+[04:31:35] [Server thread/INFO]: <Hiago3_14> kkkkk
+[04:31:41] [Server thread/INFO]: <renerareman> errado n tá
+[04:31:51] [Server thread/INFO]: <Felix> esse servidor só chove
+[04:31:57] [Server thread/INFO]: <Hiago3_14> desativa a chuva no teu mine
+[04:31:58] [Server thread/INFO]: <renerareman> madnar o adm tirar chuva
+[04:32:07] [Server thread/INFO]: <Felix> msa eu sou o admin
+[04:32:10] [Server thread/INFO]: <Felix> vou dormir
+[04:32:12] [Server thread/INFO]: <Felix> adeos
+[04:32:17] [Server thread/INFO]: <Hiago3_14> adeos
+[04:32:40] [Server thread/INFO]: <Felix> vou deixar uma cama aqui na ponto perto da logo da trojan
+[04:32:43] [Server thread/INFO]: <Felix> pega aqui quem quiser
+[04:32:47] [Server thread/INFO]: <Felix> eu robei ela de um village
+[04:32:50] [Server thread/INFO]: <Felix> da criança tadinha
+[04:32:53] [Server thread/INFO]: <renerareman> ladrão
+[04:32:57] [Server thread/INFO]: <Felix> lembre-se disso toda vez que deitar nela a noite
+[04:33:02] [Server thread/INFO]: <Felix> fuiz
+[04:33:05] [Server thread/INFO]: Felix lost connection: Disconnected
+[04:33:05] [Server thread/INFO]: Felix left the game
+[04:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-495, y=81, z=413} fk{x=-561, y=65, z=475}
+[04:33:44] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-495, y=81, z=413} fk{x=-562, y=65, z=475}
+[04:33:58] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=463} fk{x=-564, y=67, z=466}
+[04:33:58] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-563, y=66, z=463} fk{x=-564, y=67, z=466}
+[04:34:57] [Server thread/INFO]: <renerareman> já consegui ferro
+[04:35:00] [Server thread/INFO]: <renerareman> vou mimir
+[04:35:02] [Server thread/INFO]: <renerareman> adios
+[04:35:07] [Server thread/INFO]: <Hiago3_14> flw
+[04:35:09] [Server thread/INFO]: Hiago3_14 has made the advancement [Stone Age]
+[04:35:38] [Server thread/INFO]: Hiago3_14 has made the advancement [Getting an Upgrade]
+[04:35:50] [Server thread/INFO]: renerareman lost connection: Disconnected
+[04:35:50] [Server thread/INFO]: renerareman left the game
+[04:38:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-585, y=72, z=470}
+[04:38:54] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-583, y=72, z=470}
+[04:38:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:38:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:38:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:38:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-585, y=72, z=470}
+[04:38:55] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-585, y=72, z=470}
+[04:39:03] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:39:03] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:39:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-586, y=72, z=470}
+[04:39:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-586, y=72, z=470}
+[04:39:04] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-586, y=72, z=470}
+[04:39:05] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-586, y=72, z=470}
+[04:39:05] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:39:05] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:39:05] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-586, y=72, z=470}
+[04:39:06] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-584, y=72, z=470}
+[04:39:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=468}
+[04:39:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=468}
+[04:39:09] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=467}
+[04:39:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=467}
+[04:39:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=467}
+[04:39:10] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=466}
+[04:39:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=465}
+[04:39:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=466}
+[04:39:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=466}
+[04:39:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=466}
+[04:39:11] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-600, y=75, z=465}
+[04:39:12] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-598, y=74, z=465}
+[04:39:12] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-600, y=75, z=466}
+[04:39:12] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-600, y=75, z=465}
+[04:39:13] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-589, y=70, z=463} fk{x=-600, y=75, z=465}
+[04:39:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-603, y=74, z=470}
+[04:39:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-603, y=74, z=470}
+[04:39:23] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-603, y=74, z=469}
+[04:39:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-602, y=75, z=468}
+[04:39:24] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-602, y=75, z=468}
+[04:39:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-605, y=74, z=469}
+[04:39:26] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-606, y=74, z=468}
+[04:39:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-607, y=73, z=469}
+[04:39:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-608, y=75, z=465}
+[04:39:32] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-608, y=75, z=465}
+[04:39:33] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-607, y=75, z=466}
+[04:39:33] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-608, y=74, z=466}
+[04:39:34] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-609, y=75, z=465}
+[04:39:34] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-609, y=75, z=465}
+[04:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-625, y=68, z=473}
+[04:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-625, y=69, z=472}
+[04:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-625, y=69, z=472}
+[04:39:39] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-625, y=69, z=472}
+[04:39:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-625, y=69, z=471}
+[04:39:40] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-607, y=78, z=463} fk{x=-625, y=70, z=470}
+[04:43:28] [Server thread/INFO]: Hiago3_14 has made the advancement [Sweet Dreams]
+[04:45:18] [Server thread/INFO]: SuubMatias[/177.13.90.242:27225] logged in with entity id 34556 at (-534.1157337148798, 66.0, 569.0788224914994)
+[04:45:18] [Server thread/INFO]: SuubMatias joined the game
+[04:45:35] [Server thread/INFO]: SuubMatias lost connection: Timed out
+[04:45:35] [Server thread/INFO]: SuubMatias left the game
+[04:45:40] [Server thread/INFO]: SuubMatias[/177.13.90.242:27233] logged in with entity id 34698 at (-533.3588539844372, 66.0, 564.1569694870658)
+[04:45:40] [Server thread/INFO]: SuubMatias joined the game
+[04:46:10] [Server thread/INFO]: scardrain[/187.123.3.10:8448] logged in with entity id 34931 at (-558.9001085247994, 97.0, 382.76249998807907)
+[04:46:10] [Server thread/INFO]: scardrain joined the game
+[04:47:18] [Server thread/INFO]: <SuubMatias> cade hiago
+[04:47:23] [Server thread/INFO]: <Hiago3_14> ?
+[04:47:28] [Server thread/INFO]: <SuubMatias> ta onde
+[04:47:36] [Server thread/INFO]: <Hiago3_14> aqui
+[04:47:57] [Server thread/INFO]: <Hiago3_14> o que queres?
+[04:56:25] [Server thread/INFO]: <scardrain> hiago, ce ta onde?
+[04:56:38] [Server thread/INFO]: Hiago3_14 lost connection: Disconnected
+[04:56:38] [Server thread/INFO]: Hiago3_14 left the game
+[04:58:27] [Server thread/INFO]: Felix[/177.193.138.117:51140] logged in with entity id 39403 at (-534.102624498577, 64.5, 542.151493182609)
+[04:58:27] [Server thread/INFO]: Felix joined the game
+[04:58:27] [Server thread/INFO]: HiagoTI[/179.217.112.237:35580] logged in with entity id 39472 at (-531.5, 63.0, 558.5)
+[04:58:27] [Server thread/INFO]: HiagoTI joined the game
+[05:02:49] [Server thread/INFO]: Felix lost connection: Disconnected
+[05:02:49] [Server thread/INFO]: Felix left the game
+[05:04:58] [Server thread/INFO]: HiagoTI has made the advancement [Stone Age]
+[05:04:58] [Server thread/INFO]: HiagoTI has made the advancement [Getting an Upgrade]
+[05:07:42] [Server thread/INFO]: SuubMatias lost connection: Timed out
+[05:07:42] [Server thread/INFO]: SuubMatias left the game
+[05:07:47] [Server thread/INFO]: SuubMatias[/177.13.90.242:27161] logged in with entity id 42729 at (-383.39880376158834, 68.0, 514.7401072277761)
+[05:07:47] [Server thread/INFO]: SuubMatias joined the game
+[05:09:27] [Server thread/INFO]: scardrain lost connection: Timed out
+[05:09:27] [Server thread/INFO]: scardrain left the game
+[05:10:30] [Server thread/INFO]: scardrain[/189.40.78.11:52907] logged in with entity id 43555 at (-558.8416075865374, 97.0, 382.30000001192093)
+[05:10:30] [Server thread/INFO]: scardrain joined the game
+[05:12:10] [Server thread/INFO]: scardrain has made the advancement [Best Friends Forever]
+[05:16:43] [Server thread/INFO]: scardrain lost connection: Disconnected
+[05:16:43] [Server thread/INFO]: scardrain left the game
+[05:18:06] [Server thread/INFO]: scardrain[/187.123.3.10:4276] logged in with entity id 46088 at (-560.5876295484128, 97.0, 380.03948836584806)
+[05:18:06] [Server thread/INFO]: scardrain joined the game
+[05:22:49] [Server thread/INFO]: <HiagoTI> achei que era uma madeira diferente
+[05:22:53] [Server thread/INFO]: <HiagoTI> era uma colmeia
+[05:23:06] [Server thread/INFO]: <SuubMatias> kakakaak
+[05:23:11] [Server thread/INFO]: <SuubMatias> pse, tem ABELHA agr
+[05:23:23] [Server thread/INFO]: <HiagoTI> elas atacam ainda?
+[05:23:27] [Server thread/INFO]: <HiagoTI> me escondi no chao
+[05:26:50] [Server thread/INFO]: <HiagoTI> dá pra comer alga?
+[05:26:59] [Server thread/INFO]: <scardrain> dá
+[05:27:04] [Server thread/INFO]: <scardrain> mas vc tem que colocar no fogão
+[05:28:35] [Server thread/INFO]: HiagoTI has made the advancement [Monster Hunter]
+[05:28:40] [Server thread/INFO]: <scardrain> hiago
+[05:28:42] [Server thread/INFO]: <scardrain> entra no discord
+[05:28:49] [Server thread/INFO]: <HiagoTI> bl
+[05:29:43] [Server thread/INFO]: <HiagoTI> desbloqueia ai
+[05:29:47] [Server thread/INFO]: <HiagoTI> ttava no micro do notebook
+[05:32:04] [Server thread/INFO]: HiagoTI has made the advancement [Acquire Hardware]
+[05:33:16] [Server thread/INFO]: HiagoTI has made the advancement [Isn't It Iron Pick]
+[05:33:36] [Server thread/INFO]: <HiagoTI> 210 506
+[05:33:49] [Server thread/INFO]: <HiagoTI> 314 314
+[05:34:10] [Server thread/INFO]: SuubMatias has made the advancement [The Parrots and the Bats]
+[05:35:46] [Server thread/INFO]: <scardrain> -558 -379
+[05:35:55] [Server thread/INFO]: <scardrain> -558 379
+[05:36:11] [Server thread/INFO]: <HiagoTI> 227 357
+[05:37:19] [Server thread/WARN]: HiagoTI moved wrongly!
+[05:45:02] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54528] logged in with entity id 57144 at (-524.5, 63.0, 565.5)
+[05:45:02] [Server thread/INFO]: AmigoZeiTodo joined the game
+[05:47:41] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-372, y=64, z=500} fk{x=-472, y=62, z=564}
+[05:52:32] [Server thread/INFO]: AmigoZeiTodo has made the advancement [Stone Age]
+[05:52:56] [Server thread/INFO]: AmigoZeiTodo has made the advancement [Getting an Upgrade]
+[05:54:28] [Server thread/INFO]: AmigoZeiTodo has made the advancement [Sweet Dreams]
+[05:54:41] [Server thread/INFO]: HiagoTI has made the advancement [Sweet Dreams]
+[05:55:43] [Server thread/INFO]: AmigoZeiTodo was shot by Skeleton
+[05:56:31] [Server thread/INFO]: AmigoZeiTodo has made the advancement [Monster Hunter]
+[06:00:34] [Server thread/INFO]: <HiagoTI> nao saiam de casa
+[06:00:39] [Server thread/INFO]: <HiagoTI> nao passem o virus adiante
+[06:00:44] [Server thread/INFO]: <AmigoZeiTodo> 1
+[06:02:07] [Server thread/INFO]: <AmigoZeiTodo> f
+[06:02:08] [Server thread/INFO]: <HiagoTI> setTime 0
+[06:02:24] [Server thread/INFO]: <HiagoTI> world.setTime(0)
+[06:02:32] [Server thread/INFO]: <AmigoZeiTodo> quem ta acordado é corno
+[06:02:35] [Server thread/INFO]: <HiagoTI> zzzzz
+[06:03:00] [Server thread/INFO]: <AmigoZeiTodo> ZZZZZZZZzzzzzzzzzzzzZZZZZZZZZzzz
+[06:12:07] [Server thread/WARN]: Fetching packet for removed entity awb['Cobblestone'/64505, l='world', x=-557.02, y=103.00, z=352.88]
+[06:21:39] [Server thread/INFO]: AmigoZeiTodo fell from a high place
+[06:28:43] [Server thread/INFO]: scardrain lost connection: Disconnected
+[06:28:43] [Server thread/INFO]: scardrain left the game
+[06:35:24] [Server thread/INFO]: HiagoTI lost connection: Disconnected
+[06:35:24] [Server thread/INFO]: HiagoTI left the game
+[06:36:28] [Server thread/INFO]: SuubMatias has made the advancement [Sweet Dreams]
+[06:36:29] [Server thread/INFO]: <SuubMatias> zzzzzzzzzzzzzz
+[06:36:32] [Server thread/WARN]: SuubMatias was kicked for floating too long!
+[06:36:32] [Server thread/INFO]: SuubMatias lost connection: Flying is not enabled on this server
+[06:36:32] [Server thread/INFO]: SuubMatias left the game
+[06:36:35] [Server thread/INFO]: <AmigoZeiTodo> ZZZZZZZZZZ
+[06:36:36] [Server thread/INFO]: SuubMatias[/177.13.90.242:27257] logged in with entity id 69037 at (-511.700000025332, 102.0000002, 385.299999974668)
+[06:36:36] [Server thread/INFO]: SuubMatias joined the game
+[06:37:04] [Server thread/INFO]: HiagoTI[/179.217.112.237:35756] logged in with entity id 69144 at (-504.62887338439174, 89.0, 386.7962331060242)
+[06:37:04] [Server thread/INFO]: HiagoTI joined the game
+[06:46:00] [Server thread/INFO]: AmigoZeiTodo has made the advancement [Acquire Hardware]
+[06:48:04] [Server thread/INFO]: <HiagoTI> BAKED POTAT
+[06:49:55] [Server thread/INFO]: <HiagoTI> zzzzzzzz
+[06:50:01] [Server thread/INFO]: <SuubMatias> zzzzzzzzzzzzzzzzzzzz
+[06:50:04] [Server thread/INFO]: <AmigoZeiTodo> ZZZ
+[07:00:53] [Server thread/INFO]: <HiagoTI> zzzzzz
+[07:00:59] [Server thread/INFO]: <SuubMatias> zzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzzz
+[07:01:01] [Server thread/WARN]: SuubMatias was kicked for floating too long!
+[07:01:01] [Server thread/INFO]: SuubMatias lost connection: Flying is not enabled on this server
+[07:01:01] [Server thread/INFO]: SuubMatias left the game
+[07:01:32] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[07:01:32] [Server thread/INFO]: AmigoZeiTodo left the game
+[07:01:36] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54588] logged in with entity id 73738 at (-528.6999999880791, 91.0, 390.4958220233153)
+[07:01:36] [Server thread/INFO]: AmigoZeiTodo joined the game
+[07:01:51] [Server thread/INFO]: SuubMatias[/177.13.90.242:27154] logged in with entity id 73805 at (-510.700000025332, 102.0000002, 383.299999974668)
+[07:01:51] [Server thread/INFO]: SuubMatias joined the game
+[07:16:11] [Server thread/INFO]: HiagoTI has made the advancement [Suit Up]
+[07:17:20] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[07:17:20] [Server thread/INFO]: AmigoZeiTodo left the game
+[07:17:21] [Server thread/INFO]: HiagoTI lost connection: Disconnected
+[07:17:21] [Server thread/INFO]: HiagoTI left the game
+[07:17:23] [Server thread/INFO]: <SuubMatias> zzzzzzzzzzzzzzz
+[07:17:25] [Server thread/WARN]: SuubMatias was kicked for floating too long!
+[07:17:25] [Server thread/INFO]: SuubMatias lost connection: Flying is not enabled on this server
+[07:17:25] [Server thread/INFO]: SuubMatias left the game
+[07:17:29] [Server thread/INFO]: SuubMatias[/177.13.90.242:27334] logged in with entity id 76692 at (-510.700000025332, 102.0000002, 383.299999974668)
+[07:17:29] [Server thread/INFO]: SuubMatias joined the game
+[07:17:38] [Server thread/INFO]: <SuubMatias> sssssssssssssssss
+[07:17:47] [Server thread/INFO]: HiagoTI[/179.217.112.237:36000] logged in with entity id 76736 at (-304.42498210241615, 53.0, 285.60309129915083)
+[07:17:47] [Server thread/INFO]: HiagoTI joined the game
+[07:17:50] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54597] logged in with entity id 76889 at (-469.6790688018804, 83.0, 382.5640445715854)
+[07:17:50] [Server thread/INFO]: AmigoZeiTodo joined the game
+[07:43:35] [Server thread/INFO]: AmigoZeiTodo has made the advancement [Isn't It Iron Pick]
+[07:47:29] [Server thread/INFO]: HiagoTI has made the advancement [Take Aim]
+[07:53:17] [Server thread/INFO]: SuubMatias lost connection: Timed out
+[07:53:17] [Server thread/INFO]: SuubMatias left the game
+[07:53:22] [Server thread/INFO]: SuubMatias[/177.13.90.242:27254] logged in with entity id 85152 at (-515.2804139936059, 76.03584062504456, 389.0841510615039)
+[07:53:22] [Server thread/INFO]: SuubMatias joined the game
+[07:56:42] [Server thread/INFO]: <SuubMatias> -280 260
+[07:58:57] [Server thread/INFO]: HiagoTI has made the advancement [Best Friends Forever]
+[08:18:16] [Server thread/INFO]: HiagoTI has made the advancement [A Seedy Place]
+[08:30:37] [Server thread/INFO]: SuubMatias lost connection: Disconnected
+[08:30:37] [Server thread/INFO]: SuubMatias left the game
+[08:31:30] [Server thread/INFO]: SuubMatias[/177.13.90.242:27352] logged in with entity id 92186 at (-512.7999668118398, 102.0, 384.48374013407795)
+[08:31:30] [Server thread/INFO]: SuubMatias joined the game
+[08:33:11] [Server thread/INFO]: HiagoTI lost connection: Disconnected
+[08:33:11] [Server thread/INFO]: HiagoTI left the game
+[08:33:15] [Server thread/INFO]: <SuubMatias> zzzzzzzzzz
+[08:33:17] [Server thread/WARN]: SuubMatias was kicked for floating too long!
+[08:33:17] [Server thread/INFO]: SuubMatias lost connection: Flying is not enabled on this server
+[08:33:17] [Server thread/INFO]: SuubMatias left the game
+[08:33:17] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[08:33:17] [Server thread/INFO]: AmigoZeiTodo left the game
+[08:33:19] [Server thread/INFO]: SuubMatias[/177.13.90.242:27332] logged in with entity id 92420 at (-510.700000025332, 102.0000002, 383.299999974668)
+[08:33:19] [Server thread/INFO]: SuubMatias joined the game
+[08:33:20] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54655] logged in with entity id 92438 at (-483.56623383618205, 59.0, 379.5932970386615)
+[08:33:20] [Server thread/INFO]: AmigoZeiTodo joined the game
+[08:33:25] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[08:33:25] [Server thread/INFO]: AmigoZeiTodo left the game
+[08:33:29] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54656] logged in with entity id 92465 at (-486.69999998807907, 58.56956984362527, 380.2508700352412)
+[08:33:29] [Server thread/INFO]: AmigoZeiTodo joined the game
+[08:33:50] [Server thread/INFO]: HiagoTI[/179.217.112.237:36210] logged in with entity id 92545 at (-516.300000011921, 78.0, 397.6984957400275)
+[08:33:50] [Server thread/INFO]: HiagoTI joined the game
+[08:41:09] [Server thread/INFO]: SuubMatias has made the advancement [Best Friends Forever]
+[08:42:06] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-623, y=73, z=463} fk{x=-621, y=70, z=469}
+[08:45:55] [Server thread/INFO]: HiagoTI lost connection: Disconnected
+[08:45:55] [Server thread/INFO]: HiagoTI left the game
+[08:45:58] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[08:45:58] [Server thread/INFO]: AmigoZeiTodo left the game
+[08:46:07] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54662] logged in with entity id 95311 at (-519.7417718971725, 64.0, 408.30000001192093)
+[08:46:07] [Server thread/INFO]: AmigoZeiTodo joined the game
+[08:46:21] [Server thread/INFO]: HiagoTI[/179.217.112.237:36244] logged in with entity id 95348 at (-496.69999998807907, 62.0, 388.57235332873927)
+[08:46:21] [Server thread/INFO]: HiagoTI joined the game
+[08:55:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-497, y=64, z=464} fk{x=-497, y=64, z=465}
+[08:55:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-497, y=64, z=465}
+[08:55:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=465}
+[08:55:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-497, y=64, z=465}
+[08:55:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-497, y=64, z=465}
+[08:55:07] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-497, y=64, z=465}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-497, y=64, z=466}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=466}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=466}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=466}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=466}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=466}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=466}
+[08:55:08] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-496, y=64, z=464} fk{x=-498, y=64, z=466}
+[08:55:27] [Server thread/WARN]: Mismatch in destroy block pos: fk{x=-518, y=66, z=464} fk{x=-518, y=66, z=465}
+[08:58:03] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[08:58:03] [Server thread/INFO]: AmigoZeiTodo left the game
+[08:58:20] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54673] logged in with entity id 97775 at (-535.5107820617095, 96.0, 384.94792250314106)
+[08:58:20] [Server thread/INFO]: AmigoZeiTodo joined the game
+[09:05:19] [Server thread/INFO]: AmigoZeiTodo has made the advancement [Suit Up]
+[09:09:52] [Server thread/INFO]: HiagoTI lost connection: Disconnected
+[09:09:52] [Server thread/INFO]: HiagoTI left the game
+[09:11:57] [Server thread/INFO]: <SuubMatias> zzzzzzzzzz
+[09:12:00] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[09:12:00] [Server thread/INFO]: AmigoZeiTodo left the game
+[09:12:08] [Server thread/INFO]: AmigoZeiTodo[/179.180.4.1:54679] logged in with entity id 100128 at (-512.6999999880791, 77.0, 382.69999998807907)
+[09:12:08] [Server thread/INFO]: AmigoZeiTodo joined the game
+[09:17:59] [Server thread/INFO]: SuubMatias lost connection: Disconnected
+[09:17:59] [Server thread/INFO]: SuubMatias left the game
+[09:23:45] [Server thread/INFO]: <AmigoZeiTodo> gg izi
+[09:23:50] [Server thread/INFO]: AmigoZeiTodo lost connection: Disconnected
+[09:23:50] [Server thread/INFO]: AmigoZeiTodo left the game
+[12:09:04] [Server thread/INFO]: TioPotranca[/187.123.1.223:15075] logged in with entity id 101661 at (-439.157118875701, 59.0, 382.3779825535601)
+[12:09:04] [Server thread/INFO]: TioPotranca joined the game
+[12:09:38] [Server thread/INFO]: TioPotranca lost connection: Disconnected
+[12:09:38] [Server thread/INFO]: TioPotranca left the game
+[14:21:47] [Server thread/INFO]: scardrain[/187.123.3.10:4247] logged in with entity id 101727 at (-560.4162297247545, 97.0, 380.30584099247744)
+[14:21:47] [Server thread/INFO]: scardrain joined the game
+[14:58:19] [Server thread/INFO]: TioPotranca[/187.123.1.223:15051] logged in with entity id 106546 at (-434.6716535041973, 59.0, 387.1017254290549)
+[14:58:19] [Server thread/INFO]: TioPotranca joined the game
+[14:58:26] [Server thread/INFO]: <TioPotranca> eai
+[14:58:30] [Server thread/INFO]: <TioPotranca> jaapa
+[14:58:30] [Server thread/INFO]: <scardrain> iae
+[14:58:32] [Server thread/INFO]: <scardrain> suave?
+[14:58:44] [Server thread/INFO]: <TioPotranca> suave
+[14:59:41] [Server thread/INFO]: <TioPotranca> japa
+[14:59:48] [Server thread/INFO]: <TioPotranca> acho que vou derrubar o server
+[14:59:49] [Server thread/INFO]: <scardrain> fala meu lindo
+[14:59:51] [Server thread/INFO]: <scardrain> blz
+[14:59:53] [Server thread/INFO]: <TioPotranca> por 2 min
+[14:59:58] [Server thread/INFO]: scardrain lost connection: Disconnected
+[14:59:58] [Server thread/INFO]: scardrain left the game
+[15:00:01] [Server thread/INFO]: TioPotranca lost connection: Disconnected
+[15:00:01] [Server thread/INFO]: TioPotranca left the game
+[15:00:03] [Server thread/INFO]: Stopping server
+[15:00:03] [Server thread/INFO]: Saving players
+[15:00:03] [Server thread/INFO]: Saving worlds
+[15:00:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_end
+[15:00:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:the_nether
+[15:00:03] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:03] [Server thread/INFO]: Saving chunks for level 'world'/minecraft:overworld
+[15:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:00:04] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
